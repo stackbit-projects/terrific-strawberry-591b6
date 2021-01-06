@@ -11,11 +11,18 @@ sections:
   - section_id: about
     type: section_content
     title: Про меня
-    content: >-
-      This is the "about" excerpt. It can be used to provide a paragraph about
-      yourself that people can read on the homepage to get a sense of who you
-      are. There also exists a dedicated about page where you can write more
-      about yourself for those who are interested.
+    content: >+
+      Ph.D. студент в области мультиомики и персонализированной медицины в UMCG
+      (Медицинский центр Университтета Гронингена). 
+
+
+      Имею опыт работы проджект-менеджером в коммерции/бизнесе и промышленности.
+
+
+      Сейчас работаю над собственным проектом (разрабатываю продукт для Р4
+      медицины, который в будущем хочу интегрировать с мультиомикс
+      фреймворком). 
+
     actions:
       - label: Contact Me
         url: /contact

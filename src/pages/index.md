@@ -6,8 +6,8 @@ sections:
     type: section_hero
     title: mkorshe
     content: >-
-      This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
+      Это небольшой блог, в котором я делюсь своими размышлениями и опытом о
+      работе в науке и самореализации. 
   - section_id: about
     type: section_content
     title: About
